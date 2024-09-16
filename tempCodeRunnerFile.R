@@ -1,0 +1,1 @@
+teens <- read.csv("snsdata.csv")
